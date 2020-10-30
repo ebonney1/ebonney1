@@ -1,4 +1,4 @@
-![GitHub Logo](/images/banner.png)
+![alt text](http://url/to/img.png)
 
 I'm a college student at Binghamton University who is learning how to code with Python and Visual Studio Code. I have recently been learning about APIs and Web Scraping. It's fun to code something that anyone on the web can easily see. Hopefully in the future I can take my skills and try to learn another programming language. 
 
